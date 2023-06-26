@@ -6,6 +6,8 @@
 }
 
 body {
+    width: 1440px;
+    height: 598px;
     font-size: 100%;
     background-color: #e5e7e9;
 
@@ -13,6 +15,8 @@ body {
 
 .cabecalho {
     background-color: #26333c;
+    width: 1440px;
+    height: 70px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -30,5 +34,25 @@ body {
     font-family: Fira Code;
     font-weight: 500;   
     color: #e5e7e9;
+}
 
+.conteudo-hero {
+    margin-bottom: 48px;
+    
+}
+
+.conteudo-principal {
+    display: flex;
+    width: 637px;
+    height: 75px;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.conteudo-principal-imagem {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 466px;
+    height: 343px;
+   
 }
