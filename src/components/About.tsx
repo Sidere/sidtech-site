@@ -16,7 +16,7 @@ const About = () => {
             <div className="space-y-4 text-primary/90">
               <p className="leading-relaxed">
                 Nossa história começou lá em 2020 no meio de uma pandemia, cercados de incertezas e inúmeros negócios 
-                fechando por conta de toda crise do momento. A idealização de um empreendimento não veio à toa.
+                fechando por conta de toda crise do momento. A idealização de um empreendimento não veio à toa. Agora já são mais de 5 anos de experiência no mercado de assistência técnica em eletrônicos.
               </p>
               
               <p className="leading-relaxed">
